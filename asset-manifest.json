@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Roger_Profile/static/css/main.726339ea.css",
-    "main.js": "/Roger_Profile/static/js/main.70ef4393.js",
+    "main.js": "/Roger_Profile/static/js/main.8597c576.js",
     "static/js/27.6cf6500e.chunk.js": "/Roger_Profile/static/js/27.6cf6500e.chunk.js",
     "static/media/icomoon.ttf?8mc8ao": "/Roger_Profile/static/media/icomoon.26fba05603ddcf5a7c48.ttf",
     "index.html": "/Roger_Profile/index.html"
   },
   "entrypoints": [
     "static/css/main.726339ea.css",
-    "static/js/main.70ef4393.js"
+    "static/js/main.8597c576.js"
   ]
 }
